@@ -17,4 +17,4 @@ We are proud that we were able to create a product that has a positive impact on
 Throughout this journey, we learned the value of collaboration, persistence, and empathy-driven design. Overcoming technical hurdles and refining our solution taught us the importance of holistic thinking and the profound impact of technology on accessibility.
 
 ## What's next for EchoSense
-Our goal for EchoSense goes beyond the present. We are dedicated to bringing this innovative project to life by developing functional prototypes. Moreover, we are working hard to enhance the user experience by adding GPS functionality. In our future versions, the integration of vibrational signals will mark a significant step forward in providing an all-inclusive solution for the visually impaired community.
+Our goal for EchoSense goes beyond the present. It would be nice to bring this innovative project to life by developing functional prototypes. Moreover, we can enhance the user experience by adding GPS functionality. In our future versions, the integration of vibrational signals will mark a significant step forward in providing an all-inclusive solution for the visually impaired community.
