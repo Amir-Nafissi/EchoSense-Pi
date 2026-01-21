@@ -2,7 +2,7 @@
 The inspiration behind EchoSense stemmed from a collective desire to enhance the lives of the visually impaired community. Witnessing their daily challenges ignited a passion to develop an innovative solution that would empower independence and safety.
 
 ## What it does
-This technology empowers the visually impaired by detecting obstacles in real-time. This is important especially since traditional white canes have blind spots which do not allow the user to detect objects from the knees above. Our product uses a secondary ultrasonic sensor to detect such collisions, which is coupled with a personalized app that considers individual height and calculates when it should notify the user of incoming collisions.
+This technology empowers the visually impaired by detecting obstacles in real-time. This is important especially since traditional white canes have blind spots which do not allow the user to detect objects from the knees above. Our product uses a secondary ultrasonic sensor to detect such collisions, which is coupled with a personalized app that considers individual height and calculates when it should notify the user of incoming collisions (the app component did not end up working, but the cane was still functional without it).
 
 ## How we built it
 We used Android Studio as our ide and then Java as the programming language. We then used Raspberry Pi to code two ultrasonic sensors using Python and got the hardware and the server working.
