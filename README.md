@@ -8,7 +8,7 @@ This technology empowers the visually impaired by detecting obstacles in real-ti
 We used Android Studio as our ide and then Java as the programming language. We then used Raspberry Pi to code two ultrasonic sensors using Python and got the hardware and the server working.
 
 ## Challenges we ran into
-We ran into many challenges during the production of EchoSense which almost made us abandon the project. One of the main challenges we ran into is to get the audio to work whenever it detects an object coming nearby. The other challenge was to get the app to connect with the Raspberry Pi, which worked, but still did not send information properly at the end. Finally, the biggest challenge that took the longest to overcome was the Raspberry Pi OS to work with the modules.
+We ran into many challenges during the production of EchoSense which almost made us abandon the project. One of the main challenges we ran into is to get the audio to work whenever it detects an object coming nearby. The other challenge was to get the app to connect with the Raspberry Pi, which worked, but still could not send information properly at the end. Finally, the biggest challenge that took the longest to overcome was the Raspberry Pi OS to work with the modules.
 
 ## Accomplishments that we're proud of
 We are proud that we were able to create a product that has a positive impact on the world. We are also proud that we were able to use networking skills and make a mobile app that communicates with the Pi.
